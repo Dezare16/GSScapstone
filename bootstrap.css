@@ -1,0 +1,19 @@
+.card-body{
+  
+    display:flex;
+    flex-wrap: ;
+    text-align: center;
+    justify-content: center;
+}
+
+.last-container{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+flex-direction: column !important;
+}
+
+/* #carousel-inner{
+    height: 90px;
+    width: 100px;
+} */
